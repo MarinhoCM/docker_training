@@ -1,0 +1,5 @@
+# chache folders 
+__pychache__/
+
+# virtual environment
+**/venv
